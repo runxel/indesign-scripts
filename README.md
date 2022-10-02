@@ -5,7 +5,7 @@
 Applies the style of the currently selected footnote to all other footnotes.
 
 ### [Bundschatten](https://github.com/runxel/indesign-scripts/blob/master/Bundschatten.jsx)
-Places a grey gradient in the centerfold/between to pages and thus simulates the shadow in an opened book.
+Places a grey gradient in the centerfold/between two pages and thus simulates the shadow in an opened book.
 
 ### [Shine Thru](https://github.com/runxel/indesign-scripts/blob/master/Durchscheinen.jsx)
 Simulates the translucency of paper by placing page elements onto the next/previous page with low opacity.
